@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.css": "/planyway/static/css/main.b6eaf132.css",
+    "main.js": "/planyway/static/js/main.0d65a88d.js",
+    "index.html": "/planyway/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.b6eaf132.css",
+    "static/js/main.0d65a88d.js"
+  ]
+}
