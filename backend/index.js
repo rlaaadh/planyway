@@ -9,7 +9,7 @@ const port = process.env.PORT || 5000;
 app.use(cors({
   origin: [
     'http://localhost:3000',
-    'https://yl1017-yang.github.io'
+    'https://rlaaadh.github.io'
   ],
   methods: ['GET', 'POST', 'PUT', 'DELETE'],
   credentials: true
